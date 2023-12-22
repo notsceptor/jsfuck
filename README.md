@@ -11,4 +11,4 @@ JSFuck is an esoteric programming style where the goal is to write functional an
     ! : Logical NOT
     + : Addition operator
 
-Despite its limitations, JSFuck can execute any JavaScript code, making it a fascinating and creative challenge.
+Despite its limitations, JSFuck can execute any JavaScript code.
